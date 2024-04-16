@@ -1,5 +1,5 @@
-Hi there, I am Ishwor Thapa Chhetri 👋,
-and I am a Front End developer and always improving towards full Stack Developing and AI researcher with a strong passion for JavaScript and education!
+Hi, I am Ishwor Thapa Chhetri 👋, a passionate self-taught frontend developer and a freelance software engineer who is always improving towards Full Stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - 🔭 I’m currently working on a project that utilises Nuxtjs, Vuejs an Golang.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,6 +26,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 **Ishworrr/Ishworrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Hi there, I am Ishwor Thapa Chhetri 👋,
+and I am a Front End developer and always improving towards full Stack Developing and AI researcher with a strong passion for JavaScript and education!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
